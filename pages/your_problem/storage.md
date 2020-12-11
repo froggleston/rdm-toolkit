@@ -35,14 +35,14 @@ To find out what storage solutions are available to you and which one fits your 
 
 For active data, it is important that it is easily accessible for everyone that needs to work with it. See recommendations on how to store your data during the course of your project below.
 For sensitive data, please visit our [GDPR page](gdpr).
-For storing your data in a way for others to find and access it, consider a public repository. 
+For storing your data in a way for others to find and access it, consider a public repository or collaborative cloud solution. 
 For Big data, local storage is often not suitable.
 
 
 
 ## How to store your data during the course of your project?
 
-To ensure that research data are easy to find and accessible as well as the results are prepared to be reproducable and reusable data should be stored already from the beginning of a project and should be kept active during the project duration. For collaborative projects a central storage place for intermediate and final results as well as the sharing of research data between the collaboration partners is essential.  
+To ensure that research data are easy to find and accessible as well as the results are prepared to be reproducible and reusable data should be stored already from the beginning of a project and should be kept active during the project duration. For collaborative projects a central storage place for intermediate and final results as well as the sharing of research data between the collaboration partners is essential.  
 
 ### Considerations
 * Technical considerations and costs (storage space, in-house versions, backups etc.)
@@ -58,4 +58,5 @@ To ensure that research data are easy to find and accessible as well as the resu
 * [iRODS](https://irods.org/)
 * [e!DAL](https://edal.ipk-gatersleben.de/)
 * [Research Data Management Platform (RDMP)](https://www.dundee.ac.uk/hic/researchdatamanagementplatform/)
+* [CyVerse UK Data Store](https://cyverseuk.org/getting-started-with-cyverseuk-apps/how-can-i-use-cyverse-uk/)
 
